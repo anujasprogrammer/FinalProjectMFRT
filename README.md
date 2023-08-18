@@ -3,7 +3,7 @@ This is my final project for Microsoft Future Ready Talent Internship. I have cr
 
 While we have other platforms such as Uber and Ola. However, Rent4U rents a car to its users, which they can drive themselves.
 
-GitHub: https://anujasprogrammer.github.io/FinalProjectMFRT/
+GitHub Link: https://anujasprogrammer.github.io/FinalProjectMFRT/
 
-Azure website: Link: https://yellow-wave-0c8b41010.3.azurestaticapps.net/
+Azure Link: https://yellow-wave-0c8b41010.3.azurestaticapps.net/
 
